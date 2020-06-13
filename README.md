@@ -4,3 +4,5 @@ Many companies today collect vast amounts of data on customers and clientele, an
 
 
 Follow this series of machine learning applications on a complete customer dataset
+Go to my tableau public profile to see interactive vizzes of theses projects :
+https://public.tableau.com/profile/raphael.mahmoud#!/
